@@ -13,7 +13,7 @@ name                     : &name "Xianhang Li"
 description              : &description "personal description"
 url                      : https://xhl-video.github.io/xianhangli # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xhl-video/xianhangli"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "Master in Computer Science, University of Central Florida (UCF)"
   location         : "Orlando, FL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=YKpFz4YAAAAJ"
   email            :  "xianhang710@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
