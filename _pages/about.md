@@ -45,7 +45,9 @@ Experience
 
 + **Center for Research in Computer Vision(CRCV) in UCF**  
 
-  *Research Assistant*      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present 
+  *Research Assistant*      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present   
+  
+  Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was submitted to CVPR2021 
 
   
 
@@ -53,6 +55,8 @@ Experience
 + **Multimedia Research Center(MMLAB) in SIAT**  
 
   *Research Assistant*       　&nbsp; &nbsp;       Shenzhen, China, 2018.10 - 2020.10  
+  
+  Video Classification    　&nbsp; &nbsp; One paper was submitted to ICLR2021; the other was published on CVPR2020
 
 
   
