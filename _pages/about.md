@@ -57,7 +57,7 @@ Experience
   
 
 
-+ **2018.06 - 2018.10 London , UK **   Queen Mary University of London
++ **2018.06 - 2018.10 London , UK**   Queen Mary University of London
 
   *Research Assistant*
 
