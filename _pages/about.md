@@ -46,7 +46,19 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 
 
 # Education #
+#### Education
 
++ ##### *2019.08 - present*
+
+  M.S. in Computer Science, University of Central Florida (UCF), Orlando, USA
+
+  GPA: 3.85/4.0 
+
+  advised by Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/),  supported by  Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/) .
+
++ ##### *2014.09 - 2018.07*
+
+  Bachelor in Telecommunications Engineering and Management, Beijing University of Posts and Telecommunications, Beijing (BUPT), China 
 
 
 # Moments
