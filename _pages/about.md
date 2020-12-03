@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xianhang Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,9 @@ redirect_from:
 
 # About me
 
-Hi! I’m a second-year M.Sc. at [ University of Central Florida](https://www.cs.ucf.edu/).  My research is on computer vision and deep learning , with particular interests in action recognition, video classification and video synthesis.
+Hi! I’m a second-year M.Sc. at [ University of Central Florida](https://www.cs.ucf.edu/).  My adviser is Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by  Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/) . My research is on computer vision and deep learning , with particular interests in action recognition, video classification and video synthesis.
 
-Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telecommunications ](https://english.bupt.edu.cn/). I spent an wonderful summer in [Queen Mary University of London](https://www.qmul.ac.uk/), surpervised by [Gokop Goteng](http://eecs.qmul.ac.uk/profiles/gotenggokop.html).
-
-
+Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telecommunications ](https://english.bupt.edu.cn/). After graduation,  I spent an wonderful summer in [Queen Mary University of London](https://www.qmul.ac.uk/), under the supervision of [Gokop Goteng](http://eecs.qmul.ac.uk/profiles/gotenggokop.html). From 2018 to 2020, I worked as a Research Assistant at [Multimedia Research Center](http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/), [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/) (MMLab, SIAT) under the supervision of Dr. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN/), supported by Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN) and Prof. [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml). 
 
 News
 ======
@@ -31,6 +29,11 @@ News
 Publications
 ======
 
+** SmallBigNet: Integrating Core and Contextual Views for Video Classification **
+
+**Xianhang Li**, Yali Wang, Zhipeng Zhou, Yu Qiao
+Computer Vision and Pattern Recognition  (CVPR'20), 2020.
+[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)] [[Code](https://github.com/xhl-video/SmallBigNet)]
 
  
 
