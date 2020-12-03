@@ -52,7 +52,7 @@ Experience
 
 + **Multimedia Research Center(MMLAB) in Shenzhen Institute of Advanced Technology**  
 
-  *Research Assistant*       　&nbsp; &nbsp;       Shenzhen, China(Remote), 2018.10 - 2020.10  
+  *Research Assistant*       　&nbsp; &nbsp;       Shenzhen, China, 2018.10 - 2020.10  
 
 
   
