@@ -86,7 +86,7 @@ B.E. in Telecommunications Engineering and Management, Beijing University of Pos
 
 Moments
 ======
-My girlfriend and I adopted a cute cat. His name is Turing ! He is one of the mentors in my family.
+My girlfriend and I adopted a cute cat. His name is Turing! He is also one of the mentors in my family.
 
 <img src="https://github.com/xhl-video/xianhangli/blob/master/images/turing.png?raw=true" alt="img"  style="zoom:140%;" />
 
