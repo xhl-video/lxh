@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xianhang Li"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -31,11 +31,6 @@ News
 Publications
 ======
 
-**  On Disentangling Spoof Traces for Generic Face Anti-Spoofing **
-
-Yaojie Liu, Joel Stehouwer, Xiaoming Liu
-European Conference on Computer Vision (ECCV'20), 2020.
-[[PDF](https://arxiv.org/pdf/2007.09273.pdf)] [[Code](https://github.com/yaojieliu/ECCV20-STDN)]
 
  
 
