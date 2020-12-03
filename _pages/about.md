@@ -46,7 +46,6 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 
 
 # Education #
-#### Education
 
 + ##### *2019.08 - present*
 
