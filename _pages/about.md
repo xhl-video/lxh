@@ -45,7 +45,7 @@ Experience
 
 + **Center for Research in Computer Vision(CRCV) in UCF**  
 
-  *Research Assistant*      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present   
+  **Research Assistant      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present**   
   
   Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was submitted to CVPR2021 
 
@@ -54,7 +54,7 @@ Experience
 
 + **Multimedia Research Center(MMLAB) in SIAT**  
 
-  *Research Assistant*       　&nbsp; &nbsp;       Shenzhen, China, 2018.10 - 2020.10  
+  **Research Assistant       　&nbsp; &nbsp;       Shenzhen, China, 2018.10 - 2020.10** 
   
   Video Classification    　&nbsp; &nbsp; One paper was submitted to ICLR2021; the other was published on CVPR2020
 
@@ -64,7 +64,7 @@ Experience
 
 + **Queen Mary University of London**
 
-  *Research Assistant*         　&nbsp; &nbsp;      London , UK, 2018.06 - 2018.10   
+  **Research Assistant         　&nbsp; &nbsp;      London , UK, 2018.06 - 2018.10**   
 
   This interesting Connected-Vehicles project was implemented during the internship in UK.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iOneZ9_jW3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
