@@ -10,6 +10,7 @@ redirect_from:
 ---
 
 # About me
+======
 
 Hi! I’m a second-year M.Sc. at [ University of Central Florida](https://www.cs.ucf.edu/).  My adviser is Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by  Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/) . My research is on computer vision and deep learning , with particular interests in action recognition, video classification and video synthesis.
 
@@ -36,13 +37,11 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)] [[Code](https://github.com/xhl-video/SmallBigNet)]  
 
 
- 
 
 
+Experience 
+======
 
-
-
-# Experience
 +  **2018.06 - 2018.10** This interesting Connected-Vehicles project was implemented during the internship in UK.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOneZ9_jW3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -50,8 +49,8 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 
 
 
-# Education #
-
+Education
+======
 +  **2019.08 - present**  
 M.S. in Computer Science, University of Central Florida (UCF), Orlando, USA  
 GPA: 3.85/4.0  
