@@ -30,9 +30,9 @@ Publications
 ======
 
 
-<img src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true" alt="img"  align="left" style="zoom:45%;display:inline" />**SmallBigNet: Integrating Core and Contextual Views for Video Classification**
-[Xianhang Li](https://xhl-video.github.io/xianhangli/), Yali Wang, Zhipeng Zhou, Yu Qiao
-Computer Vision and Pattern Recognition  (CVPR'20), 2020.
+<img src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true" alt="img"  align="left" style="zoom:45%;display:inline" />**SmallBigNet: Integrating Core and Contextual Views for Video Classification**  
+[Xianhang Li](https://xhl-video.github.io/xianhangli/), Yali Wang, Zhipeng Zhou, Yu Qiao  
+Computer Vision and Pattern Recognition  (CVPR'20), 2020.  
 [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)] [[Code](https://github.com/xhl-video/SmallBigNet)]
 
  
