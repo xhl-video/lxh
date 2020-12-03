@@ -18,6 +18,7 @@ Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telec
 
 
 &nbsp;
+
 News
 ======
 
@@ -29,6 +30,7 @@ News
 
 
 &nbsp;  
+
 Publications
 ======
 
@@ -40,6 +42,7 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 
 
 &nbsp;
+
 Experience 
 ======
 
@@ -48,6 +51,7 @@ Experience
 
 
 &nbsp;
+
 Education
 ======
 +  **2019.08 - present**  
@@ -59,6 +63,7 @@ advised by Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in
 B.E. in Telecommunications Engineering and Management, Beijing University of Posts and Telecommunications(BUPT), Beijing, China  
 
 &nbsp;
+
 Moments
 ======
 My girlfriend and I adopted a cute cat. His name is Turing ! He is one of the mentors in my family.
