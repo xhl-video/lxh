@@ -32,7 +32,8 @@ Publications
 **SmallBigNet: Integrating Core and Contextual Views for Video Classification**
 
 **Xianhang Li**, Yali Wang, Zhipeng Zhou, Yu Qiao
-Computer Vision and Pattern Recognition  (CVPR'20), 2020.
+
+Computer Vision and Pattern Recognition (CVPR'20), 2020.
 [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)] [[Code](https://github.com/xhl-video/SmallBigNet)]
 
  
