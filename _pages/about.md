@@ -42,14 +42,26 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 
 Experience 
 ======
-+ **2020.05 - Present** 
+
++ **2020.05 - Present**  Center for Research in Computer Vision(CRCV), in UCF, Orlando, USA  
+
+  *Research Assistant*  
+
+  
 
 
-+ **2018.10 - 2020.10** 
++ **2018.10 - 2020.10**  Multimedia Research Center(MMLAB), in Shenzhen Institute of Advanced Technology, Shenzhen China.
+
+  *Research Assistant*  
+
+  
 
 
-+  **2018.06 - 2018.10** 
-This interesting Connected-Vehicles project was implemented during the internship in UK.
++ **2018.06 - 2018.10**   Queen Mary University of London,  London , UK 
+
+  *Research Assistant*
+
+  This interesting Connected-Vehicles project was implemented during the internship in UK.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOneZ9_jW3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
