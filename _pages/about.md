@@ -43,21 +43,21 @@ Computer Vision and Pattern Recognition  (CVPR'20), 2020.
 Experience 
 ======
 
-+ **2020.05 - Present Orlando, USA**  Center for Research in Computer Vision(CRCV) in UCF 
++ **Center for Research in Computer Vision(CRCV) in UCF**  Orlando, USA,  2020.05 - Present   
 
   *Research Assistant*  
 
   
 
 
-+ **2018.10 - 2020.10 Shenzhen, China**  Multimedia Research Center(MMLAB) in Shenzhen Institute of Advanced Technology
++ **Multimedia Research Center(MMLAB) in Shenzhen Institute of Advanced Technology**  Shenzhen, China(Remote), 2018.10 - 2020.10  
 
   *Research Assistant*  
 
   
 
 
-+ **2018.06 - 2018.10 London , UK**   Queen Mary University of London
++ **Queen Mary University of London**   London , UK, 2018.06 - 2018.10   
 
   *Research Assistant*
 
