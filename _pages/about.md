@@ -53,7 +53,7 @@ GPA: 3.85/4.0
 advised by Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/).
 
 +  **2014.09 - 2018.07**  
-Bachelor in Telecommunications Engineering and Management, Beijing University of Posts and Telecommunications(BUPT, Beijing, China 
+B.E. in Telecommunications Engineering and Management, Beijing University of Posts and Telecommunications(BUPT), Beijing, China 
 
 
 # Moments
