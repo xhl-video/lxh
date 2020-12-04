@@ -75,7 +75,7 @@ Experience
 Education
 ======
 +  **2019.08 - present**  
-M.S. in Computer Science, University of Central Florida (UCF), Orlando, USA  
+M.Sc. in Computer Science, University of Central Florida (UCF), Orlando, USA  
 GPA: 3.85/4.0  
 advised by Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/).
 
