@@ -30,12 +30,22 @@ News
 
 Publications
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>SmallBigNet: Integrating Core and Contextual Views for Video Classification</strong><br/>
+      <u>Xianhang Li</u>, Yali Wang, Zhipeng Zhou, Yu Qiao<br/>
+     Computer Vision and Pattern Recognition  (CVPR'20), 2020. <br/>
+      [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf">PDF</a>]
+      [<a href="https://github.com/xhl-video/SmallBigNet">Code</a>]
+    </p>
+  </div>
+</div>
 
-
-<img src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true" alt="img"  style="padding:20px;width:35%;vertical-align:top" />**SmallBigNet: Integrating Core and Contextual Views for Video Classification**    
-[Xianhang Li](https://xhl-video.github.io/xianhangli/), Yali Wang, Zhipeng Zhou, Yu Qiao  
-Computer Vision and Pattern Recognition  (CVPR'20), 2020.  
-[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)] [[Code](https://github.com/xhl-video/SmallBigNet)]
 
 
 &nbsp;
