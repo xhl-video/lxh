@@ -98,5 +98,5 @@ Moments
 ======
 My girlfriend and I adopted a cute cat. His name is Turing! He is also one of the mentors in my family.
 
-<img src="https://github.com/xhl-video/xianhangli/blob/master/images/turing.jpeg?raw=true" alt="img"  style="zoom:140%;" />
+<img src="https://github.com/xhl-video/xianhangli/blob/master/images/turing.jpeg?raw=true" alt="img"  style="zoom:70%;" />
 
