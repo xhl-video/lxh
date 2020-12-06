@@ -32,7 +32,7 @@ Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="50%" src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true">  
+    <img align="left" width="100%" src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
