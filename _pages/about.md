@@ -34,7 +34,7 @@ Publications
   <div class="column left">
     <img align="left" width="30%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/smallbig.png?raw=true">  
   </div>
-  <div class="column middle">&nbsp;</div>
+ 
   <div class="column right">
     <p>
       <strong>SmallBigNet: Integrating Core and Contextual Views for Video Classification</strong><br/>
