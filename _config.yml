@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "USA"
+locale                   : "en-US"
 title                    : "Xianhang Li's Homepage"
 title_separator          : "-"
 name                     : &name "Xianhang Li"
@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xhl-video/xianhangli"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=YKpFz4YAAAAJ"
   email            :  "xianhang710@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  cv              : "https://xhl-video.github.io/xianhangli/files/Xianhang_Li_s_Resume.pdf"
+  #cv              : "https://xhl-video.github.io/xianhangli/files/Xianhang_Li_s_Resume.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
