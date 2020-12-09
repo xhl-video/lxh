@@ -16,7 +16,7 @@ Hi! I’m a second-year M.Sc. student in computer science  at [ University of Ce
 
 Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telecommunications ](https://english.bupt.edu.cn/). After graduation,  I spent an wonderful summer in [Queen Mary University of London](https://www.qmul.ac.uk/), under the supervision of Prof. [Gokop Goteng](http://eecs.qmul.ac.uk/profiles/gotenggokop.html). From 2018 to 2020, I worked as a Research Assistant at [Multimedia Research Center](http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/), [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/) (MMLab, SIAT) under the supervision of Prof. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN/), supported by Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN) and Prof. [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml).  
 
-My resume can be download through this link [CV](https://github.com/xhl-video/xianhangli/blob/master/files/Xianhang_Li_s_Resume.pdf).
+My resume can be download through this link [CV](https://xhl-video.github.io/xianhangli/files/Xianhang_Li_s_Resume.pdf).
 
 
 
