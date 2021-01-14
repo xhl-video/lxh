@@ -22,12 +22,11 @@ My resume can be download through this link [CV](https://xhl-video.github.io/xia
 
 News
 ======
++ [2021/01/13]  One paper was accepted in ICLR 2021.
 
 + [2020/11/16]  One paper is submitted to CVPR 2021.
 
-+ [2020/09/30]  One paper is submitted to ICLR 2021.
-
-+ [2020/02/24]  One paper is accepted in CVPR 2020.
++ [2020/02/24]  One paper was accepted in CVPR 2020.
 
 
 Publications
