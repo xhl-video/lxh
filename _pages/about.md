@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-About me
+Xianhang Li
 ======
 
 Hi! I’m a second-year M.Sc. student in computer science  at [ University of Central Florida](https://www.cs.ucf.edu/).  My adviser is Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/). My research interest is on computer vision and deep learning, with particular interests in action recognition, video classification and video synthesis.
