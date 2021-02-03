@@ -37,7 +37,7 @@ Publications
   </div>
  
   <div class="column right">
-    <p style="font-size:17px;">
+    <p style="font-size:14px;">
       <strong>CT-Net: Channel Tensorization Network for Video Classification</strong><br/>
       Kunchang Li*,<u>Xianhang Li</u>*, Yali Wang, Jun Wang, Yu Qiao<br/>
      International Conference on Learning Representations   (ICLR'21), 2021.<br/>
