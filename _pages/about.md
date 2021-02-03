@@ -37,7 +37,7 @@ Publications
   </div>
  
   <div class="column right">
-    <p>
+    <p style="font-size:16px;">
       <strong>CT-Net: Channel Tensorization Network for Video Classification</strong><br/>
       Kunchang Li*,<u>Xianhang Li</u>*, Yali Wang, Jun Wang, Yu Qiao<br/>
      International Conference on Learning Representations   (ICLR'21), 2021.<br/>
@@ -53,7 +53,7 @@ Publications
   </div>
  
   <div class="column right">
-    <p>
+    <p style="font-size:16px;">
       <strong>SmallBigNet: Integrating Core and Contextual Views for Video Classification</strong><br/>
       <u>Xianhang Li</u>, Yali Wang, Zhipeng Zhou, Yu Qiao<br/>
      Computer Vision and Pattern Recognition  (CVPR'20), 2020.<br/>
