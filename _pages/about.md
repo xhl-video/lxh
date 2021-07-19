@@ -12,9 +12,9 @@ redirect_from:
 Xianhang Li
 ======
 
-Hi! I’m a second-year M.Sc. student in computer science  at [ University of Central Florida](https://www.cs.ucf.edu/).  My adviser is Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/). My research interest is on computer vision and deep learning, with particular interests in action recognition, video classification and video synthesis.
+Hi! I’m an incoming Ph.D student in computer science  at [ University of California, Santa Cruz](https://www.soe.ucsc.edu/departments/computer-science-and-engineering).  My adviser is Prof. [Cihang Xie](https://cihangxie.github.io/)  My research interest is on computer vision and deep learning, with particular interests in action recognition, video classification and video synthesis.
 
-Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telecommunications ](https://english.bupt.edu.cn/). After graduation,  I spent an wonderful summer in [Queen Mary University of London](https://www.qmul.ac.uk/), under the supervision of Prof. [Gokop Goteng](http://eecs.qmul.ac.uk/profiles/gotenggokop.html). From 2018 to 2020, I worked as a Research Assistant at [Multimedia Research Center](http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/), [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/) (MMLab, SIAT) under the supervision of Prof. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN/), supported by Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN) and Prof. [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml).  
+I obtained my mater degree  at [ University of Central Florida](https://www.cs.ucf.edu/). My adviser was Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/). Before joining UCF, I obtained B.E. from [ Beijing University of Posts and Telecommunications ](https://english.bupt.edu.cn/). After graduation,  I spent an wonderful summer in [Queen Mary University of London](https://www.qmul.ac.uk/), under the supervision of Prof. [Gokop Goteng](http://eecs.qmul.ac.uk/profiles/gotenggokop.html). From 2018 to 2020, I worked as a Research Assistant at [Multimedia Research Center](http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/), [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/) (MMLab, SIAT) under the supervision of Prof. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN/), supported by Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN) and Prof. [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml).  
 
 My resume can be download through this link [CV](https://xhl-video.github.io/xianhangli/files/Xianhang_Li_s_Resume.pdf).
 
@@ -23,8 +23,6 @@ My resume can be download through this link [CV](https://xhl-video.github.io/xia
 News
 ======
 + [2021/01/13]  One paper was accepted in ICLR 2021.
-
-+ [2020/11/16]  One paper is submitted to CVPR 2021.
 
 + [2020/02/24]  One paper was accepted in CVPR 2020.
 
