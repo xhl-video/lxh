@@ -118,6 +118,5 @@ My girlfriend and I adopted a cute cat. His name is Turing! He is also one of th
 
 
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Total number of visitors to this site： <span id="busuanzi_value_site_pv"></span></span>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BbTMKt2tN1gS1S9RBpsvcC2nOdzNwrGUKj7gwvLtDfE&cl=ffffff&w=a"></script>
 
