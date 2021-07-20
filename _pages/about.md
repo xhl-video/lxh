@@ -22,6 +22,8 @@ My resume can be download through this link [CV](https://xhl-video.github.io/xia
 
 News
 ======
++ [2021/06/27]  I will join UCSC as a Ph.D. student!
+
 + [2021/01/13]  One paper was accepted in ICLR 2021.
 
 + [2020/02/24]  One paper was accepted in CVPR 2020.
