@@ -35,11 +35,11 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="40%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/Ctnet.png?raw=true">  
+    <img align="left" width="100%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/Ctnet.png?raw=true">  
   </div>
- 
+   <div class="column middle">&nbsp;</div>
   <div class="column right">
-    <p style="font-size:16px;">
+    <p>
       <strong>CT-Net: Channel Tensorization Network for Video Classification</strong><br/>
       Kunchang Li*,<u>Xianhang Li</u>*, Yali Wang*, Jun Wang, Yu Qiao<br/>
      International Conference on Learning Representations   (ICLR'21), 2021.<br/>
@@ -68,7 +68,7 @@ ___
   </div>
 </div>
 
-
+___
 
 &nbsp;
 
