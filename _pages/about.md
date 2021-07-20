@@ -79,7 +79,7 @@ Experience
 
   **Research Assistant      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present**   
   
-  Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was submitted to **CVPR2021**
+  Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was submitted to **ICCV2021**
 
   
 
