@@ -42,7 +42,7 @@ Publications
   <div class="column right">
     <p>
       <strong>Pose-guided Generative Adversarial Net for Novel View Action Synthesis</strong><br/>
-      <u>Xianhang L</u>i, Junhao Zhang, Kunchang Li, Shruti Vyas, Yogesh S Rawat<br/>
+      <u>Xianhang Li</u>, Junhao Zhang, Kunchang Li, Shruti Vyas, Yogesh S Rawat<br/>
      Winter Conference on Applications of Computer Visions   (WACV'22), 2022.<br/>
         [<a href="https://arxiv.org/abs/2110.07993">PDF</a>]
     </p>
@@ -61,7 +61,7 @@ ___
   <div class="column right">
     <p>
       <strong>CT-Net: Channel Tensorization Network for Video Classification</strong><br/>
-      Kunchang Li*,<u>Xianhang Li</u>*, Yali Wang*, Jun Wang, Yu Qiao<br/>
+      Kunchang Li*, <u>Xianhang Li</u>*, Yali Wang*, Jun Wang, Yu Qiao<br/>
      International Conference on Learning Representations   (ICLR'21), 2021.<br/>
         [<a href="https://openreview.net/pdf?id=UoaQUQREMOs">PDF</a>]
         [<a href="https://github.com/Andy1621/CT-Net">Code</a>]
@@ -123,7 +123,11 @@ Experience
 
 Education
 ======
-+  **2019.08 - present**  
++  **2019.09 - Present**
+Ph.D. in Computer Science and Engineering, University of California, Santa Cruz (UCSC), Santa Cruz, USA
+advised by Prof. [Cihang Xie](https://cihangxie.github.io/)
+
++  **2019.08 - 2021.05**  
 M.Sc. in Computer Science, University of Central Florida (UCF), Orlando, USA  
 GPA: 3.89/4.0  
 advised by Prof. [Yogesh Singh Rawat](https://www.crcv.ucf.edu/person/rawat/) in [Center for Research in Computer Vision](https://www.crcv.ucf.edu/), supported by Prof. [Jun Wang](http://www.cass.eecs.ucf.edu/jun-wang/).
