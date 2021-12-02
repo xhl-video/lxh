@@ -123,7 +123,7 @@ Experience
 
 Education
 ======
-+  **2019.09 - Present**
++  **2021.09 - Present**
 Ph.D. in Computer Science and Engineering, University of California, Santa Cruz (UCSC), Santa Cruz, USA
 advised by Prof. [Cihang Xie](https://cihangxie.github.io/)
 
