@@ -33,6 +33,7 @@ News
 
 Publications
 ======
+___
 
 <div class="row">
   <div class="column left">
@@ -49,7 +50,6 @@ Publications
   </div>
 </div>
 
-___
 
 ___
 
