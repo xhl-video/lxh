@@ -12,7 +12,7 @@ redirect_from:
 Xianhang Li
 ======
 
-Hi! I’m an incoming Ph.D student in computer science  at [ University of California, Santa Cruz](https://www.soe.ucsc.edu/departments/computer-science-and-engineering).  My adviser is Prof. [Cihang Xie](https://cihangxie.github.io/).  My research interest is on computer vision and deep learning, with particular interests in action recognition, video classification and video synthesis.
+Hi! I’m a Ph.D student in computer science  at [ University of California, Santa Cruz](https://www.soe.ucsc.edu/departments/computer-science-and-engineering).  My adviser is Prof. [Cihang Xie](https://cihangxie.github.io/).  My research interest is on computer vision and deep learning, with particular interests in action recognition, video classification and video synthesis.
 
 
 
@@ -22,6 +22,8 @@ My resume can be download through this link [CV](https://xhl-video.github.io/xia
 
 News
 ======
++ [2021/10/4]  One paper was accepted in WACV 2022.
+
 + [2021/06/13]  I will join UCSC as a Ph.D. student!
 
 + [2021/01/13]  One paper was accepted in ICLR 2021.
@@ -31,6 +33,24 @@ News
 
 Publications
 ======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/pasgan.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Pose-guided Generative Adversarial Net for Novel View Action Synthesis</strong><br/>
+      <u>Xianhang L</u>i, Junhao Zhang, Kunchang Li, Shruti Vyas, Yogesh S Rawat<br/>
+     Winter Conference on Applications of Computer Visions   (WACV'22), 2022.<br/>
+        [<a href="https://arxiv.org/abs/2110.07993">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
 ___
 
 <div class="row">
