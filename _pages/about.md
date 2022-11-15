@@ -22,6 +22,14 @@ My resume can be download through this link [CV](https://xhl-video.github.io/xia
 
 News
 ======
++ [2022/10/24] One paper was accepted in NeruaIPS ML Safty Workshop 2022.
+
++ [2022/7/8]  One paper was accepted in ECCV 2022.
+
++ [2022/6/13]  Started my summer intern at ByteDance with Dr.[Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/).
++
++ [2022/1/28]  One paper was accepted in ICLR 2022.
+
 + [2021/10/4]  One paper was accepted in WACV 2022.
 
 + [2021/06/13]  I will join UCSC as a Ph.D. student!
@@ -37,6 +45,23 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="100%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/eccv_method.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>In Defense of Image Pre-Training for Spatiotemporal Recognition</strong><br/>
+       <u>Xianhang Li</u>,  Huiyu Wang, Chen Wei,  Jieru Mei, Alan Yuille, Yuyin Zhou and Cihang Xie<br/>
+        European Conference on Computer Vision   (ECCV'22), 2022.<br/>
+        [<a href="https://arxiv.org/abs/2110.07993">PDF</a>]
+        [<a href="https://github.com/UCSC-VLAA/Image-Pretraining-for-Video">Code</a>]
+    </p>
+  </div>
+</div>
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="100%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/overall.png?raw=true">  
   </div>
    <div class="column middle">&nbsp;</div>
@@ -44,7 +69,7 @@ ___
     <p>
       <strong>Pose-guided Generative Adversarial Net for Novel View Action Synthesis</strong><br/>
       <u>Xianhang Li</u>, Junhao Zhang, Kunchang Li, Shruti Vyas, Yogesh S Rawat<br/>
-     Winter Conference on Applications of Computer Visions   (WACV'22), 2022.<br/>
+       Winter Conference on Applications of Computer Visions   (WACV'22), 2022.<br/>
         [<a href="https://arxiv.org/abs/2110.07993">PDF</a>]
     </p>
   </div>
@@ -95,11 +120,20 @@ ___
 Experience 
 ======
 
++ **ByteDance Intelligent Creation Lab**  
+
+  **Research Intern      　&nbsp;  &nbsp;       Moutain view, USA,  2022.06 - Present**   
+  
+  Efficient Video Training  &nbsp;  &nbsp; One paper was submitted to **CVPR2023**
+
+  
+
+
 + **Center for Research in Computer Vision(CRCV) in UCF**  
 
-  **Research Assistant      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - Present**   
+  **Research Assistant      　&nbsp;  &nbsp;       Orlando, USA,  2020.05 - 2020.08**   
   
-  Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was submitted to **ICCV2021**
+  Cross-View Video Synthesis  &nbsp;  &nbsp; One paper was accepted to **WACV2022**
 
   
 
