@@ -52,8 +52,8 @@ ___
     <p>
       <strong>In Defense of Image Pre-Training for Spatiotemporal Recognition</strong><br/>
        <u>Xianhang Li</u>,  Huiyu Wang, Chen Wei,  Jieru Mei, Alan Yuille, Yuyin Zhou and Cihang Xie<br/>
-        European Conference on Computer Vision   (ECCV'22), 2022.<br/>
-        [<a href="https://arxiv.org/abs/2110.07993">PDF</a>]
+        European Conference on Computer Vision   (ECCV'22), 2022.<br/>   
+        [<a href="https://arxiv.org/abs/2205.01721">PDF</a>]
         [<a href="https://github.com/UCSC-VLAA/Image-Pretraining-for-Video">Code</a>]
     </p>
   </div>
