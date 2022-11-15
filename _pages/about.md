@@ -16,7 +16,7 @@ Hi! I’m a Ph.D student in computer science  at [ University of California, San
 
 
 
-My resume can be download through this link [CV](https://xhl-video.github.io/xianhangli/files/Xianhang_Li_s_Resume.pdf).
+My resume can be download through this link [CV](https://github.com/xhl-video/xianhangli/blob/master/files/Xianhang_Li_s_Resume.pdf).
 
 
 
