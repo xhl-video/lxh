@@ -26,7 +26,7 @@ News
 
 + [2022/7/8]  One paper was accepted in ECCV 2022.
 
-+ [2022/6/13]  Started my summer intern at ByteDance with Dr.[Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/).
++ [2022/6/13]  Started my summer intern at ByteDance with Dr. [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/).
 
 + [2022/1/28]  One paper was accepted in ICLR 2022.
 
