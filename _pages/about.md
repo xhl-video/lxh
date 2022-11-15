@@ -39,7 +39,7 @@ News
 + [2020/02/24]  One paper was accepted in CVPR 2020.
 
 
-Publications
+Publications [Full List](https://scholar.google.com/citations?user=YKpFz4YAAAAJ&hl=zh-CN)
 ======
 ___
 
