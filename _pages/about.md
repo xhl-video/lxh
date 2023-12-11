@@ -16,12 +16,14 @@ Hi! I’m a Ph.D student in computer science  at [ University of California, San
 
 
 
-My resume can be download through this link [CV](https://github.com/xhl-video/xianhangli/blob/master/files/Xianhang_Li_s_Resume.pdf).
+My resume can be downloaded through this link [CV](https://github.com/xhl-video/xianhangli/blob/master/files/Xianhang_Li_s_Resume.pdf).
 
 
 
 News
 ======
++ [2023/9] CLIPA is accepted by NeurIPS 2023. In addition, we release our best model, CLIPA-G/14, which attains 83.0% zero-shot ImageNet top-1 accuracy.
+
 + [2022/10/24] One paper was accepted in NeruaIPS ML Safty Workshop 2022.
 
 + [2022/7/8]  One paper was accepted in ECCV 2022.
@@ -41,6 +43,23 @@ News
 
 Publications [[Full List](https://scholar.google.com/citations?user=YKpFz4YAAAAJ&hl=zh-CN)]
 ======
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%"  src="[https://github.com/xhl-video/xianhangli/blob/master/images/eccv_method.png?raw=true](https://github.com/UCSC-VLAA/CLIPA/blob/master/clipa_jax/figs/inverse_scaling_law.png)">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>An Inverse Scaling Law for CLIP Training</strong><br/>
+       <u>Xianhang Li</u>,  Zeyu Wang and Cihang Xie<br/>
+       NeurIPS 2023.<br/>   
+        [<a href="[https://arxiv.org/abs/2205.01721](https://arxiv.org/abs/2305.07017)">PDF</a>]
+        [<a href="[https://github.com/UCSC-VLAA/Image-Pretraining-for-Video](https://github.com/UCSC-VLAA/CLIPA)">Code</a>]
+    </p>
+  </div>
+</div>
 ___
 
 <div class="row">
