@@ -47,7 +47,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%"  src="[https://github.com/xhl-video/xianhangli/blob/master/images/eccv_method.png?raw=true](https://github.com/UCSC-VLAA/CLIPA/blob/master/clipa_jax/figs/inverse_scaling_law.png)">  
+    <img align="left" width="100%"  src="https://github.com/UCSC-VLAA/CLIPA/blob/master/clipa_jax/figs/inverse_scaling_law.png">  
   </div>
    <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -55,8 +55,8 @@ ___
       <strong>An Inverse Scaling Law for CLIP Training</strong><br/>
        <u>Xianhang Li</u>,  Zeyu Wang and Cihang Xie<br/>
        NeurIPS 2023.<br/>   
-        [<a href="[https://arxiv.org/abs/2205.01721](https://arxiv.org/abs/2305.07017)">PDF</a>]
-        [<a href="[https://github.com/UCSC-VLAA/Image-Pretraining-for-Video](https://github.com/UCSC-VLAA/CLIPA)">Code</a>]
+        [<a href="https://arxiv.org/abs/2305.07017">PDF</a>]
+        [<a href="https://github.com/UCSC-VLAA/CLIPA">Code</a>]
     </p>
   </div>
 </div>
