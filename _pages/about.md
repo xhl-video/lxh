@@ -53,7 +53,7 @@ ___
   <div class="column right">
     <p>
       <strong>An Inverse Scaling Law for CLIP Training</strong><br/>
-       <u>Xianhang Li</u>,  Zeyu Wang and Cihang Xie<br/>
+       <u>Xianhang Li</u>*,  Zeyu Wang* and Cihang Xie<br/>
        NeurIPS 2023.<br/>   
         [<a href="https://arxiv.org/abs/2305.07017">PDF</a>]
         [<a href="https://github.com/UCSC-VLAA/CLIPA">Code</a>]
