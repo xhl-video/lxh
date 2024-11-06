@@ -22,6 +22,17 @@ My resume can be downloaded through this link [CV](https://github.com/xhl-video/
 
 News
 ======
+
++ [new] We release Recap-DataComp-1B, where we use a LLaMA-3-powered LLaVA model to recaption the entire 1.3 billion images from DataComp-1B.
+
++ [2024/10]  One paper is accepted by NeurIPS 2024.
+
++ [2024/9]  EVP is accepted by TMLR 2024.
+
++ [2024/5] I am honored to be selected as the only  Jack Baskin and Peggy Downes-Baskin Fellowship recipient.
+
++ [2024/2] Two papers (AdvXL, L2B) are accepted by CVPR 2024.
+
 + [2023/9] CLIPA is accepted by NeurIPS 2023. In addition, we release our best model, CLIPA-G/14, which attains 83.0% zero-shot ImageNet top-1 accuracy.
 
 + [2022/10/24] One paper was accepted in NeruaIPS ML Safty Workshop 2022.
@@ -43,11 +54,115 @@ News
 
 Publications [[Full List](https://scholar.google.com/citations?user=YKpFz4YAAAAJ&hl=zh-CN)]
 ======
+
+___
+<div class="row" xmlns="http://www.w3.org/1999/html">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/li2024recap.jpeg?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>What If We Recaption Billions of Web Images with LLaMA-3?</strong><br/>
+     <u>Xianhang Li</u>*, Haoqin Tu*, Mude Hui*, Zeyu Wang*, Bingchen Zhao*, Junfei Xiao, Sucheng Ren, Jieru Mei, Qing Liu, Huangjie Zheng, Yuyin Zhou, Cihang Xie<br/>
+       arxiv, 2024.<br/>   
+        [<a href="https://arxiv.org/pdf/2406.08478.pdf">PDF</a>]
+        [<a href="https://www.haqtu.me/Recap-Datacomp-1B/">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+<div class="row" xmlns="http://www.w3.org/1999/html">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/yang2024crate.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Scaling White-Box Transformers for Vision</strong><br/>
+      Jinrui Yang*,  <u>Xianhang Li</u>*, Druv Pai, Yuyin Zhou, Yi Ma, Yadong Yu, Cihang Xie<br/>
+       NeurIPS, 2024.<br/>   
+        [<a href="https://arxiv.org/pdf/2405.20299.pdf">PDF</a>]
+        [<a href="https://rayjryang.github.io/CRATE-alpha/">Code</a>]
+    </p>
+  </div>
+</div>
+___
+<div class="row" xmlns="http://www.w3.org/1999/html">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/wang2024advxl.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Revisiting Adversarial Training at Scale</strong><br/>
+      Zeyu Wang*, <u>Xianhang Li</u>*, Hongru Zhu, Cihang Xie<br/>
+       CVPR, 2024.<br/>   
+        [<a href="https://arxiv.org/pdf/2401.04727.pdf">PDF</a>]
+        [<a href="https://github.com/UCSC-VLAA/AdvXL">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+<div class="row" xmlns="http://www.w3.org/1999/html">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/zhou2024L2B.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Learning to Bootstrap for Combating Label Noise</strong><br/>
+      Yuyin Zhou*, <u>Xianhang Li</u>*, Fengze Liu, Xuxi Chen, Lequan Yu, Cihang Xie, Matthew P. Lungren, Lei Xing<br/>
+       CVPR, 2024.<br/>   
+        [<a href="https://arxiv.org/pdf/2202.04291.pdf">PDF</a>]
+        [<a href="https://github.com/yuyinzhou/L2B">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/wu2024evp.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>	
+Unleashing the Power of Visual Prompting At the Pixel Level</strong><br/>
+      Junyang Wu*, <u>Xianhang Li</u>*, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie<br/>
+       TMLR, 2024.<br/>   
+        [<a href="https://arxiv.org/abs/2212.10556">PDF</a>]
+        [<a href="https://github.com/UCSC-VLAA/EVPA">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%"  src="https://cihangxie.github.io/images/li2023clipav2.png?raw=true">  
+  </div>
+   <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>	
+CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a $10,000 Budget; An Extra $4,000 Unlocks 81.8% Accuracy</strong><br/>
+       <u>Xianhang Li</u>*,  Zeyu Wang* and Cihang Xie<br/>
+       NeurIPS R0-FoMo Workshop, 2023.<br/>   
+        [<a href="https://arxiv.org/pdf/2306.15658.pdf">PDF</a>]
+        [<a href="https://github.com/UCSC-VLAA/CLIPA">Code</a>]
+    </p>
+  </div>
+</div>
+
 ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%"  src="https://github.com/UCSC-VLAA/CLIPA/blob/master/clipa_jax/figs/inverse_scaling_law.png">  
+    <img align="left" width="100%"  src="https://github.com/UCSC-VLAA/CLIPA/blob/master/clipa_jax/figs/inverse_scaling_law.png?raw=true">  
   </div>
    <div class="column middle">&nbsp;</div>
   <div class="column right">
